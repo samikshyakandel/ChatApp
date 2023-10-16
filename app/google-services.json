@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493158500232",
+    "project_id": "fooddelivery-3e702",
+    "storage_bucket": "fooddelivery-3e702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493158500232:android:64b998f1a2895d57ee5c3d",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nOEF7mIgI5j68qQBMoZ9PGzPiV_9KXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493158500232:android:8bf30a82a4425ec7ee5c3d",
+        "android_client_info": {
+          "package_name": "my.shopfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nOEF7mIgI5j68qQBMoZ9PGzPiV_9KXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
